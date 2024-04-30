@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zabriawn Eugene Smith - Realtor</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="listings.html">Listings</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Welcome to Zabriawn Eugene Smith's Real Estate</h1>
+      <p>Helping you find your dream home in Aliquippa, PA.</p>
+      <a href="listings.html" class="cta">View Listings</a>
+    </section>
+
+    <section class="featured-listings">
+      <h2>Featured Listings</h2>
+      <div class="listing-grid">
+        <!-- Featured listing cards go here -->
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Zabriawn Eugene Smith. All rights reserved.</p>
+  </footer>
+</body>
+</html>
